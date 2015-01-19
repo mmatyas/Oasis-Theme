@@ -14,7 +14,7 @@
 				<key>caret</key>
 				<string>#ffff00</string>
 				<key>foreground</key>
-				<string>#bfbfbf</string>
+				<string>#eeeeee</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
@@ -80,7 +80,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#61a64b</string>
+				<string>#ffee00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -119,7 +119,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#4786b3</string>
+				<string>#ff4136</string>
 			</dict>
 		</dict>
 		<dict>
@@ -184,7 +184,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#cc7014</string>
+				<string>#66d9ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -197,7 +197,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#cc7014</string>
+				<string>#66d9ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -210,7 +210,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b39847</string>
+				<string>#a6ff2e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -275,7 +275,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#cc7014</string>
+				<string>#f92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -288,7 +288,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#4786b3</string>
+				<string>#66d9ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -340,7 +340,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#e52e2e</string>
+				<string>#2ee52e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -392,7 +392,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#43bfa4</string>
+				<string>#</string>
 			</dict>
 		</dict>
 		<dict>
@@ -444,7 +444,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8fa0bf</string>
+				<string>#</string>
 			</dict>
 		</dict>
 		<dict>
